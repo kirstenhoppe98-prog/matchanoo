@@ -1,0 +1,38 @@
+body 
+{
+    font-family: 'Lora', serif;
+}
+
+*{
+background:#f883ca !important;	
+color: white;
+}
+
+#video_matcha{
+
+	width: 300px;
+}
+
+#imagen_matcha_1{
+
+    width: 800px;
+}
+
+#imagen_matcha{
+
+    height: 500px;
+	width: 400px;
+}
+
+.logo{
+    height: 60px;
+    width: 20%;    
+}
+
+.menu ul a{
+        
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+} 
